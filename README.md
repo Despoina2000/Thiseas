@@ -8,7 +8,11 @@ and 0 the road.
 -StringStack: the styva for string items
 
 example of labyrinthus:
-# 111101111
-# 111000000
-# 110010110
-# 110110111
+
+111101111
+
+111000000
+
+110010110
+
+110110111
